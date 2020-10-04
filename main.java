@@ -1,6 +1,10 @@
-class Vansh{
+class Neeraj{
 public static void main(Strings []args)
 {
+
+System.out.println("Hello Neeraj");
+  System.out.println("How are you ?");
+
 System.out.println("Hello Vansh");
 
   System.out.println("Hello Sarthak");
@@ -8,7 +12,8 @@ System.out.println("Hello Vansh");
   System.out.println("Hello Samaksh");
 
   print();
-}
+
+
 static void print(){
 System.out.println("Hello");
 
