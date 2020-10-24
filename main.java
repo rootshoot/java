@@ -10,7 +10,7 @@ System.out.println("Hello Vansh");
   System.out.println("Hello Sarthak");
 
   System.out.println("Hello Samaksh");
-
+System.out.println("Hello Aditya");
   print();
 
 
